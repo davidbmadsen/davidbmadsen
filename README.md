@@ -3,7 +3,7 @@
 - 🤝🏻 Experience working in and leading teams from both professional career and private projects
 - 🔧 Head of tech for [Flux Collective](https://flux-collective.com) - a small Oslo-based record label
 
-## Areas of experience
+### Areas of experience
 - ☁️ Developing and deploying applications to Azure Cloud
 - 🔌 API development using ASP.NET MVC and Azure Functions
 - 🗃️ Database operation and management in MS SQL and Cosmos DB
