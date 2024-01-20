@@ -15,4 +15,5 @@
 - 🚙 Billing solution for a client in the toll service provider industry (.NET + React + Azure, Microservices, EF Core, MSSQL)
 - 🌐 Flux Collective website [Flux Collective](https://flux-collective.com) (Webflow)
 - 💻 Rudolf - terminal-based text editor (Rust)
+
 [LinkedIn](https://www.linkedin.com/in/davidbmadsen/) | [Instagram](https://instagram.com/bjerregaard.mp3)
