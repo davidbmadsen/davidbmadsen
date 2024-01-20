@@ -1,5 +1,5 @@
 ### Summary
-- 💻 3+ years of professional experience developing solutions in ASP.NET/.NET Core, Microsoft Azure, React.js and Python
+- 💻 3+ years of professional experience developing web applications in .NET, React and Python
 - 🤝🏻 Experience working in and leading teams from both professional career and private projects
 - 🔧 Technical & Financial Lead for [Flux Collective](https://flux-collective.com) - a small Oslo-based record label
 
@@ -7,7 +7,7 @@
 - ☁️ Developing and deploying applications to Azure Cloud
 - 🔌 API development using ASP.NET MVC and Azure Functions
 - 🗃️ Database operation and management in MS SQL and Cosmos DB
-- 🖥️ Frontend development using React
+- 🖥️ Frontend development in React
 - 📹 Online content creation and licensing
 - ✔️ Product validation and testing
 
