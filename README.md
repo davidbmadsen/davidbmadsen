@@ -11,8 +11,9 @@
 - 📹 Online content creation and licensing
 - ✔️ Product validation and testing
 
-### Current projects
-- 🚙 Billing solution for a client in the toll service provider industry (.NET + React + Azure, Microservices, EF Core, MSSQL)
+### Current occupations
+- 🚙 Backend developer for a customer in the life insurance industry (.NET Microservices, Azure)
+- 🚀 Assisting with app migration to the cloud for a customer in the public sector (Azure, DevOps)   
 - 🌐 Flux Collective website [Flux Collective](https://flux-collective.com) (Webflow)
 - 💻 Rudolf - terminal-based text editor (Rust)
 
