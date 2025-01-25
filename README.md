@@ -1,5 +1,5 @@
 ### Summary
-- 💻 3+ years of professional experience developing web applications in .NET, React and Python
+- 💻 4+ years of professional experience developing web applications in .NET, React and Python
 - 🤝🏻 Experience working in and leading teams from both professional career and private projects
 - 🔧 Technical & Financial Lead for [Flux Collective](https://flux-collective.com) - a small Oslo-based record label
 
