@@ -14,7 +14,6 @@
 ### Current occupations
 - 🚙 Backend developer for a customer in the life insurance industry (.NET Microservices, Azure)
 - 🚀 Assisting with app migration to the cloud for a customer in the public sector (Azure, DevOps)   
-- 🌐 Flux Collective website [Flux Collective](https://flux-collective.com) (Webflow)
-- 💻 Rudolf - terminal-based text editor (Rust)
+- Various side projects - game dev in three.js ([EchoCrypt](echocrypt.io), [mdtools.dev](mdtools.dev) - browser markdown editor, and a content assistant for social media generation
 
 [LinkedIn](https://www.linkedin.com/in/davidbmadsen/) | [Instagram](https://instagram.com/bjerregaard.mp3)
